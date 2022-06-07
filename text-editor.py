@@ -1,6 +1,7 @@
 class TextEditor():
     """A text editor."""
     
+    text = []
     history = []
     clipboard = []
 
